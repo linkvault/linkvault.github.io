@@ -49,9 +49,9 @@ features                                  :
 
   - title                                 : Efficient Search 
     description                           : Quickly find links with the built-in search function and group them by tags.
-    fontawesome_icon_name                 : links
+    fontawesome_icon_name                 : magic
 
-  - title                                 : Export 
+  - title                                 : Export
     description                           : Easily export your links for backup or sharing.
     fontawesome_icon_name                 : file-export
   
