@@ -41,15 +41,15 @@ features                                  :
     
   - title                                 : Easy link management 
     description                           : Add links by pasting the URL, scanning a QR code, sharing directly from other apps, or using the iOS widget.
-    fontawesome_icon_name                 : gear
+    fontawesome_icon_name                 : link
 
   - title                                 : Customization
     description                           : Add notes and tags to each saved link for easy organization and categorization.
-    fontawesome_icon_name                 : link 
+    fontawesome_icon_name                 : tag
 
   - title                                 : Efficient Search 
     description                           : Quickly find links with the built-in search function and group them by tags.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : links
 
   - title                                 : Export 
     description                           : Easily export your links for backup or sharing.
